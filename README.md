@@ -114,10 +114,10 @@ Provide links to report issues, ask questions, or contact the maintainers.
 Credit contributors, libraries, or resources used in the project.
 
 How a README Contributes to Effective Collaboration
-Streamlines Onboarding: New contributors can quickly understand the project and start contributing.
-Prevents Repetitive Questions: Clear documentation reduces the need for maintainers to answer basic setup and usage queries repeatedly.
-Encourages Open Source Contributions: A well-structured README fosters a welcoming environment for new developers.
-Improves Maintainability: Standardized documentation ensures consistency and long-term maintainability.
+> Streamlines Onboarding: New contributors can quickly understand the project and start contributing.
+> Prevents Repetitive Questions: Clear documentation reduces the need for maintainers to answer basic setup and usage queries repeatedly.
+> Encourages Open Source Contributions: A well-structured README fosters a welcoming environment for new developers.
+> Improves Maintainability: Standardized documentation ensures consistency and long-term maintainability.
 
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 
